@@ -4,7 +4,7 @@ Blackjack is one of the casino games of luck and strategy, also known as 21. In 
 
 Our Blackjack House Rules:
 
-1)The deck is unlimited in size. 
+1)The deck is unlimited in size.\n 
 2)There are no jokers. 
 3)The Jack/Queen/King all count as 10.
 4)The the Ace can count as 11 or 1.
